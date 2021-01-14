@@ -9,10 +9,13 @@
 ## Performance
 * [**Alison Knowles reading A House of Dust**](https://www.youtube.com/watch?v=-68Z708lFsY)
 
+## Adjacent Work
+
 ### Sound Poets
 * [**Laurie Anderson**](https://laurieanderson.com/)
 * [**Sidsel Endresen**](https://www.ecmrecords.com/artists/1435046303/sidsel-endresen)
 * [**F'loom**](https://soundcloud.com/floom-2)
+* [**Four Horsemen**](https://writing.upenn.edu/pennsound/x/4-Horsemen.php)
 * [**Ian Hatcher**](https://ianhatcher.net/)
 * [**Meredith Monk**](https://www.meredithmonk.org/)
 
