@@ -33,11 +33,11 @@
 * [**Electronic Literature Knowledge Base**](https://elmcip.net/): An index of works.
 * [**Electronic Literature Organization**](https://eliterature.org/)
 
-# Random Facts
-* "condescendences" has the most repeated bigram characters of an English word
-
 # Tools
 * [**Google n-gram viewer**](https://books.google.com/ngrams)
 
 # Surveys / Press
 * [**New Yorker: What Happens When Machines Learn to Write Poetry**](https://www.newyorker.com/culture/annals-of-inquiry/the-mechanical-muse)
+
+# Random Facts
+* "condescendences" has the most repeated bigrams (considering characters) of an English word
