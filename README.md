@@ -35,6 +35,8 @@
 
 # Tools
 * [**Google n-gram viewer**](https://books.google.com/ngrams)
+* [**Tracery**](https://tracery.io/)
+* [**Markovify**](https://github.com/jsvine/markovify)
 
 # Surveys / Press
 * [**New Yorker: What Happens When Machines Learn to Write Poetry**](https://www.newyorker.com/culture/annals-of-inquiry/the-mechanical-muse)
