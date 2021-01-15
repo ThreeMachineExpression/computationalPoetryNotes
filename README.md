@@ -33,5 +33,8 @@
 * [**Electronic Literature Knowledge Base**](https://elmcip.net/): An index of works.
 * [**Electronic Literature Organization**](https://eliterature.org/)
 
+# Tools
+* [**Google n-gram viewer**](https://books.google.com/ngrams)
+
 # Surveys / Press
 * [**New Yorker: What Happens When Machines Learn to Write Poetry**](https://www.newyorker.com/culture/annals-of-inquiry/the-mechanical-muse)
