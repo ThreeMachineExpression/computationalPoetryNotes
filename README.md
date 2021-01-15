@@ -10,6 +10,10 @@
 ## Performance
 * [**Alison Knowles reading A House of Dust**](https://www.youtube.com/watch?v=-68Z708lFsY)
 
+## Classmates' Work
+* [**Benford's Whitman-inspired Tracery**](https://gist.github.com/benfordslaw/d0240b119dece0ff6610c363ad5aae73)
+* [**Angie's repo**](https://github.com/monacuca/CWML_Workshop_stuff)
+
 ## Adjacent Work
 
 ### Sound Poets
@@ -25,6 +29,9 @@
 * [**So You Want to Build a Generator (Kate Compton)**](https://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator)
 * [**The Map is the Territory**](https://solarpunk.cool/zines/map-is-the-territory/): on the power of programming
 
-## Orgs / Libraries
+# Orgs / Libraries
 * [**Electronic Literature Knowledge Base**](https://elmcip.net/): An index of works.
 * [**Electronic Literature Organization**](https://eliterature.org/)
+
+# Surveys / Press
+* [**New Yorker: What Happens When Machines Learn to Write Poetry**](https://www.newyorker.com/culture/annals-of-inquiry/the-mechanical-muse)
