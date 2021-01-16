@@ -38,6 +38,7 @@
 * [**Tracery**](https://tracery.io/)
 * [**Markovify**](https://github.com/jsvine/markovify)
 * [**ConceptNet**](http://conceptnet.io/)
+* [**CMU Pronunciation Dictionary**](http://www.speech.cs.cmu.edu/cgi-bin/cmudict)
 
 # Surveys / Press
 * [**New Yorker: What Happens When Machines Learn to Write Poetry**](https://www.newyorker.com/culture/annals-of-inquiry/the-mechanical-muse)
