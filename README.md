@@ -6,6 +6,7 @@
 * [**The Interactive Fiction Database**](https://ifdb.tads.org/): Some overlap here.
 * [**Counterpath Press' Using Electricity Series**](http://counterpathpress.org/using-electricity): Book-length works.
 * [**Memory Slam**](https://nickm.com/memslam/): Nick Montfort's reimplementation of early works
+* [**Dead Alive's Newsight Series**](https://deadalivemagazine.com/press/newsight.html): generated novels
 
 ## Performance
 * [**Alison Knowles reading A House of Dust**](https://www.youtube.com/watch?v=-68Z708lFsY)
