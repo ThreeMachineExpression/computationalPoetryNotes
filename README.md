@@ -14,6 +14,9 @@
 * [**Benford's Whitman-inspired Tracery**](https://gist.github.com/benfordslaw/d0240b119dece0ff6610c363ad5aae73)
 * [**Angie's repo**](https://github.com/monacuca/CWML_Workshop_stuff)
 
+## Twitterbots
+* [**Wolf Proverbs**](https://twitter.com/wolfproverbs) by [**Ranjit Bhatnagar**](https://twitter.com/ranjit)
+
 ## Adjacent Work
 
 ### Sound Poets
@@ -23,6 +26,9 @@
 * [**Four Horsemen**](https://writing.upenn.edu/pennsound/x/4-Horsemen.php)
 * [**Ian Hatcher**](https://ianhatcher.net/)
 * [**Meredith Monk**](https://www.meredithmonk.org/)
+
+### Experimental Poetry
+* [**Hugo Ball's Karawane**](https://www.aklein.vsfd.hoodmuseum.dartmouth.edu/karawane)
 
 # Advice
 
